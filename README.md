@@ -1,8 +1,8 @@
 WP FitText.js
 ===============================================================================
 
-Adds the [non-jQuery FixText](https://github.com/adactio/FitText.js) version to
-your page and lets you make changes via short codes
+Adds the [non-jQuery version of FixText](https://github.com/adactio/FitText.js)
+to your pages and lets you make changes via shortcodes
 
 
 Installation
